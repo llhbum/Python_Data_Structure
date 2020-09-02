@@ -86,7 +86,7 @@ if __name__ == '__main__':
     print()
 
     '''
-        After Remove 2nd index item
+        After Remove 2nd index items
         10 20 40 50
     '''
 
