@@ -146,5 +146,5 @@ if __name__ == '__main__' :
     20 -> 10 -> 40 -> 50
     Clist Head : 20
     Clist Tail : 50
-    Clist Tail->Next : 20
+    Clist Tail->Next : 20 
     '''
