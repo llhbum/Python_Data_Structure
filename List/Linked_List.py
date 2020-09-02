@@ -161,7 +161,7 @@ if __name__ == '__main__' :
     list.remove(2)
 
     # 삭제 후 리스트의 데이터 출력
-    print('After Remove 2nd Node Item')
+    print('After Remove 2nd Node Items')
     list.display()
     '''
     After Remove 2nd Node Item
