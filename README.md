@@ -22,9 +22,9 @@
 
 ## 스택(Stack)
 - 배열로 구현된 스택(Array Base Stack)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Stack/arrayBaseStack.py)
 - 연결 리스트로 구현된 스택(Linked List Base Stack)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Stack/LinkedListBaseStack.py)
 
 <br/>
 
