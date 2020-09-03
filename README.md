@@ -30,11 +30,11 @@
 
 ## 큐(Queue)
 - 배열로 구현된 큐(Array Base Queue)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Queue/ArrayBaseQueue.py)
 - 연결 리스트로 구현된 큐(Linked List Base Queue)<br/>
 [[Code]]()
 - 원형 큐(Circular Queue)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Queue/LinkedListBaseQueue.py)
 
 <br/>
 
