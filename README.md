@@ -40,21 +40,21 @@
 
 ## 덱(Deque)
 - collections 라이브러리 덱(collections library Deque)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Deque/Deque.py)
 
 <br/>
 
 ## 트리(Tree)
 - 이진 탐색 트리(Binary Search Tree)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Tree/BinarySearchTree.py)
 
 <br/>
 
-## 히프(Heap)
+## 힙(Heap)
 - 배열 기반 최대 히프(Array Base Max Heap)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Heap/ArrayBaseMaxHeap.py)
 - 배열 기반 최소 히프(Array Base Min Heap)<br/>
-[[Code]]()
+[[Code]](https://github.com/llhbum/Python_Data_Structure/blob/master/Heap/ArrayBaseMinHeap.py)
 
 <br/>
 
