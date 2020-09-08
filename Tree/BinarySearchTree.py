@@ -100,45 +100,40 @@ class BinarySearchTree:
     - 너비 우선 순회(Breadth First Traversal)
         1. 레벨 순회(Level-order traversal)
     '''
-
-    # 이진 탐색 트리 전위 순회 함수
+    #이진 탐색 트리 전위 순회 함수
     def pre_order_traversal(self):
         def _pre_order_traversal(root):
             if root is None:
                 pass
-
             else:
-                print(root.data, end=' ')
+                print(root.data, end=" ")
                 _pre_order_traversal(root.lnode)
                 _pre_order_traversal(root.rnode)
-
         _pre_order_traversal(self.root)
         print()
 
-    # 이진 탐색 트리 중위 순회 함수
+    #이진 탐색 트리 중위 순회 함수
     def in_order_traversal(self):
         def _in_order_traversal(root):
             if root is None:
                 pass
-
             else:
                 _in_order_traversal(root.lnode)
-                print(root.data, end=' ')
+                print(root.data, end=" ")
                 _in_order_traversal(root.rnode)
-
         _in_order_traversal(self.root)
         print()
 
     # 이진 탐색 트리 후위 순회 함수
-    def post_order_traversal(self):
-        def _post_order_traversal(root):
-            if root is None:
+    def post_order_traversal(self) :
+        def _post_order_traversal(root) :
+            if root is None :
                 pass
 
-            else:
+            else :
                 _post_order_traversal(root.lnode)
                 _post_order_traversal(root.rnode)
-                print(root.data, end=' ')
+                print(root.data, end = ' ')
 
         _post_order_traversal(self.root)
         print()
@@ -151,7 +146,7 @@ class BinarySearchTree:
             while queue:
                 root = queue.pop(0)
 
-                if root is not None:
+                if root is not  None:
                     print(root.data, end=' ')
 
                     if root.lnode:
@@ -160,8 +155,8 @@ class BinarySearchTree:
                     if root.rnode:
                         queue.append(root.rnode)
 
-        _level_order_traversal(self.root)
-        print()
+            _level_order_traversal(self.root)
+            print()
 
 
 if __name__ == '__main__':
@@ -228,7 +223,7 @@ if __name__ == '__main__':
 
     # 이진 탐색 트리 레벨 순회 함수
     print('- BinarySearchTree level_order_traversal test -')
-    bst.level_order_traversal()
+    # bst.level_order_traversal()
     '''
     - BinarySearchTree level_order_traversal test -
     40 4 45 34 48 15 47 49 13
