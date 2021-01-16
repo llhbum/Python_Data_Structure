@@ -1,5 +1,6 @@
 # 자료구조 (language. Python)
 <h3 align="center"><strong>목적</strong></h3>
+> 안녕하세요.
 > CS기초인 자료구조 공부 및 코딩테스트 대비를 목적으로 Data Structure 공부진행.
 
   아래는 목차이며 코드를 클릭하면 해당 자료의 코드로 이동
