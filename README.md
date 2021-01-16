@@ -60,30 +60,18 @@
 
 ## 정렬(Sorting)
 - 버블 정렬(Bubble Sort)<br/>
-[[Code]]()
 - 힙 정렬(Heap Sort)<br/>
-[[Code]]()
 - 삽입 정렬(Insertion Sort)<br/>
-[[Code]]()
 - 병합 정렬(Merge Sort)<br/>
-[[Code]]()
 - 퀵 정렬(Quick Sort)<br/>
-[[Code]]()
 - 기수 정렬(Radix Sort)<br/>
-[[Code]]()
 - 선택 정렬(Selection Sort)<br/>
-[[Code]]()
 
 <br/>
 
 ## 그래프(Graph)
 - 그래프(Graph)<br/>
-[[Code]]()
 - 크루스칼 알고리즘(Kruskal Algorithm)<br/>
-[[Code]]()
 - 프림 알고리즘(Prim Algorithm)<br/>
-[[Code]]()
 - 다익스트라 알고리즘(Dijkstra Algorithm)<br/>
-[[Code]]()
 - 플로이드 워셜 알고리즘(Floyd Warshall Algorithm)<br/>
-[[Code]]()
