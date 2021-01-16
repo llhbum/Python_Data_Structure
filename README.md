@@ -1,7 +1,11 @@
-# Python_Data_Structure
+# 자료구조 (language. Python)
+<h3 align="center"><strong>목적</strong></h3>
+> CS기초인 자료구조 공부 및 코딩테스트 대비를 목적으로 Data Structure 공부진행
+> 아래는 목차이며 코드를 클릭하면 해당 자료의 코드로 이동
+> 21.01.17 그래프까지 완성(그래프 미완성)
 
-##  [이효범]
-
+<br/>
+***
 <br/>
 
 ## 리스트(List)
@@ -58,16 +62,6 @@
 
 <br/>
 
-## 정렬(Sorting)
-- 버블 정렬(Bubble Sort)<br/>
-- 힙 정렬(Heap Sort)<br/>
-- 삽입 정렬(Insertion Sort)<br/>
-- 병합 정렬(Merge Sort)<br/>
-- 퀵 정렬(Quick Sort)<br/>
-- 기수 정렬(Radix Sort)<br/>
-- 선택 정렬(Selection Sort)<br/>
-
-<br/>
 
 ## 그래프(Graph)
 - 그래프(Graph)<br/>
